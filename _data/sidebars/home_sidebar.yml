@@ -5,10 +5,16 @@ entries:
   levels: one
   folders:
 
+  - title: Learn the Basics
+    output: web
+    url: /tax_basics.html
+    
   - title: Subjects
     output: web
     folderitems:
     - title: Personal Tax
       url: /personal_tax.html
       output: web
-
+    - title: Corporate Tax
+      url: /corporate_tax.html
+      output: web
