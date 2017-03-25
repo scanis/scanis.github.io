@@ -54,5 +54,10 @@ If you can't find the answer to your question on the site please click the feedb
 
 We really do value your feedback and questions!
 
+## Do you want to contribute?
+
+Are you interested in contributing to the textbook? The entire site is hosted on [github](https://github.com/scanis/scanis.github.io). If you're not comfortable with submitting requests through Github then simply email us using the feedback link at the top of the page.
+
+We always welcome help in creating the most accurate and comprehensive resource we can. 
 
 {% include links.html %}
