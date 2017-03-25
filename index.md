@@ -7,13 +7,13 @@ permalink: index.html
 summary: This page gives you an overview of the organization and goal of the site. This website is a work in progress - please click the feedback link above to let us know what we should add or change. 
 ---
 
-## What is TaxTextbook.ca?
+## Who We Are
 
 This site is an attempt to create a comprehensive textbook for Canadian taxation. We think every Canadian should have a free resource to learn about their tax system. Without understanding taxation and tax policy it's difficult to make informed financial and political decisions. 
 
 Taxation is a large domain and it would be irresponsible and innaccurate to say that this website will ever be an exhaustive source of information. Instead, we seek to give an overview of a subject while providing references and resources to help you perform further research.  This website is only a learning resource and does not constitute professional advice. 
 
-## How is the TaxTextbook organized?
+## Textbook Organization
 
 Since tax is such a large subject area we have divided the Textbook into subject areas. As we add more information to the textbook these categories may change as appropriate.  
 
@@ -48,13 +48,13 @@ Wherever possible we will include references and sources for the information on 
 
 This is an important aspect of the textbook since reading the source material is often the best way to understand how the rules apply to your specific scenario. If the sources linked look out of date please click the feedback link in the top bar and let us know!
 
-## Have a Specific Question?
+## Asking Specific Questions
 
 If you can't find the answer to your question on the site please click the feedback link at the top of the page and ask us. We'll do our best to answer you question and add the missing information to the textbook.
 
 We really do value your feedback and questions!
 
-## Do you want to contribute?
+## Contributing to TaxTextbook.ca
 
 Are you interested in contributing to the textbook? The entire site is hosted on [github](https://github.com/scanis/scanis.github.io). If you're not comfortable with submitting requests through Github then simply email us using the feedback link at the top of the page.
 

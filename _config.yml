@@ -29,7 +29,7 @@ exclude:
   - .gitignore
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Ask TaxTextbook
+feedback_subject_line: TaxTextbook.ca
 
 feedback_email: stephen@taxtextbook.ca
 # used as a contact email for the Feedback link in the top navigation bar
