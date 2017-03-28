@@ -5,12 +5,6 @@ entries:
   levels: one
   folders:
 
-  - title: Introduction
-    output: web
-    folderitems:
-    - title: About Taxtextbook
-      url: /index.html
-    
   - title: Income Tax Fundamentals
     output: web
     folderitems:
