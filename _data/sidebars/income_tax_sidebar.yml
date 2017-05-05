@@ -5,16 +5,6 @@ entries:
   levels: one
   folders:
 
-  - title: Tax Policy
-    output: web
-    folderitems:
-    - title: Government Bodies
-      url: /government_bodies.html
-      output: web
-      
-  - title: Tax Resources
-    output: web
-    folderitems:
     - title: Sources
       url: /tax_rules.html
       output: web
