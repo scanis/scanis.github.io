@@ -5,6 +5,23 @@ entries:
   levels: one
   folders:
 
+  - title: General
+    output: web
+    folderitems:
+    - title: Sources
+      url: /tax_rules.html
+      output: web
+  
+  - title: Corporate Income Tax
+    output: web
+    folderitems:
+    - title: Sources
+      url: /tax_rules.html
+      output: web
+  
+  - title: Personal Income Tax
+    output: web
+    folderitems:
     - title: Sources
       url: /tax_rules.html
       output: web
