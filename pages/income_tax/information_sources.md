@@ -1,5 +1,5 @@
 ---
-title: "Canadian Tax Rules - Sources"
+title: "Canadian Tax - Information Sources"
 keywords: Canadian, Canada, Tax, Taxation, Law, Research
 tags: [income_tax, ITA, CRA]
 sidebar: income_tax_sidebar

@@ -8,7 +8,7 @@ entries:
   - title: General
     output: web
     folderitems:
-    - title: Sources
+    - title: Information Sources
       url: /tax_rules.html
       output: web
   
