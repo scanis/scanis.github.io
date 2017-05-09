@@ -11,6 +11,9 @@ entries:
     - title: Information Sources
       url: /tax_rules.html
       output: web
+    - title: Types of Income
+      url: /property_business_employment_income.html
+      output: web
   
   - title: Corporate Income Tax
     output: web
