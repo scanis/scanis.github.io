@@ -106,6 +106,7 @@ If employers didn't deduct income tax from people's paycheques then tax collecti
 
 There are also rules that stop individuals from moving property income to a relative with lower marginal tax rates. In certain cases where property is gifted to a relative property income will be attributable back to the original owner. This means wealthy individuals have a reduced ability to move passive income to relatives and save tax. 
 
+## Footnotes ##
 
 [^employment]: Defined in ss. 248(1)
 [^business]: Defined in ss. 248(1)
