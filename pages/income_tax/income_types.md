@@ -23,7 +23,7 @@ Employment income makes up the majority of income for most individuals. If you e
 
 Income from employment includes salaries and most benefits received by virtue of employment. There are specific rules outlining the treatment of certain benefits received by virtue of employment. However, if you are an employee of a company you will receive a T4 slip from your employer that includes the information you need to file you personal tax return. 
 
-## Property Income ##
+### Property Income ###
 
 Property income is generally passive income earned by virtue of owning property. For example, dividends from shares in a public company, interest on public bonds and in most cases the rental of real estate[^Rental]. 
 
