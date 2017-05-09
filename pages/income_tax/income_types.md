@@ -6,6 +6,7 @@ sidebar: tax_basics_sidebar
 permalink: property_business_employment_income.html
 summary: Taxpayers in Canada can earn income from employment, property and business. Each type of income is taxed differently and is therefore important to identify.
 ---
+## Introduction ##
 
 In Canada, individuals and corporations are liable to pay tax on their income. Income can be earned from one or more of the following three sources:
 
@@ -35,136 +36,81 @@ Personal endeavours such as hobbies are not considered businesses if they are no
 
 On the other hand, if you believe you are operating a business but it is steadily generating losses the CRA may challenge whether your activities constitute a business. Historically, the CRA has required taxpayers to show that there is a reasonable expectation that the activities will generate a profit. This test has not been upheld by the courts but it is a good starting point when considering whether your activities constitute a business.  
 
-### Business Versus Property Income ###
+## Business Versus Property Income ##
 
 In some cases it will be easy to determine whether income is being earned from a business or from property. In other cases the determination may not be so easy.
 
 The main factor in distinguising business income versus property income is the level of activity involved in generating the income. Property income is earned passively by virtue of owning property while business income is earned by actively engaging in commercial activities. You'll need to consider all the facts specific to your situation.
 
-#### Special Rules for Corporations ####
+### Special Rules for Corporations ###
 
-The distinction between property and business income is more important for corporations than for individuals because 1) there is an additional refundable tax on property income earned in a corporation and 2) the small business tax credit is only available on active business. This has led the government to include some specific rules to determine the source of income in certain cases:
+The distinction between property and business income is more important for corporations than for individuals because 1) there is an additional refundable tax on property income earned in a corporation and 2) the small business tax credit is only available on active business. This has led the government to include some specific rules to determine the source of income in certain cases.
 
-1. Where the Corporation earns 
+#### Specified Investment Businesses ####
 
+A corporation is a **Specified Investment Business** if[^Specified Investment Business]:
 
-It should be noted that there are special rules when a corporation primarily earns property income but employees more than 5 full time employees.[^Specified Investment Business] These companies enjoy some of the benefits of earning business income but not all. 
+* its principal purpose is to earn income from property - including interest, dividends, rents and royalties, and
+* it employees 5 or fewer people or, in the case services are provided by an associated company, the services required for operation can be expected to require 5 or fewer employees.
 
-For example let's consider a couple examples:
+Here the CRA has outlined specific rules to determine when a corporation is carrying on a business versus earning property income. This replaces the sometimes difficult interpretation required above for individuals. However, it should be noted that while Specified Investment Businesses don't need to pay the higher corporate taxes on property income they are not eligible for the small business deduction. 
 
-#### Cash on Hand ####
+#### Property Used in an Active Business ####
 
-A grocery store deposits extra cash in a back account to earn interest. Is the interest earned income from business or property?
+Most corporations earn income from property required for day to day operations. For example, interest income from a chequing account. Any income that is earned on property incidental to or required for active business operations is deemed to be business income.[^incidental-property]  
 
-It seems reasonable to assert that the interest on the cash is property income since:
-1. Cash deposits are property based on the above definition and
-2. the income is earned passively
+This rule is in place to reduce the administrative burden on corporations to split out all property income earned while carrying on an active business. Keep in mind that the CRA will be on the lookout for the abuse of this rule. For example, if a company builds up large cash reserves that are invested you will need to argue why these investments are required for operations as an active business.  
 
-On the other hand, operating a grocery store requires cash on hand to purchase new inventory and pay employees. Therefore holding these cash deposits is integral to the business operations.
+## Why Distinguish Between Types of Income? ##
 
-In this case, because the property is used for busienss activites the interest earned would be considered business income. However, note if the cash balance increased beyond the needs of the business the source would change to property.
+There are various policy considerations that have lead to income being divided into these seperate categories. We will touch on a few reasons for the split below.
 
-
-
-
-
-
-
-
-
-
-However, it is also easy to argue that this property (the cash deposits) is required to earn business income sicne it
-
-However, there are many situations where the determination between business and property is not so simple. For example:
-
-* I run a grocery store and earn interest on cash in my bank account and short term investments. Is the interest earned considered property income?
-
-
-## Calculating the Amount of Income ##
-
-After identifying the source of the income earned you need to determine the amount of income to report for tax purposes. The calculation of income can become rather complicated depending on your situation. Luckily, if you are employed your employer will provide you with a T4 slip with your income from employment already calculated. Also, if you have passive investments with a financial institution they will provide T5 slips with any dividends or interest you earned in the year. 
-
-However, if you operated a business, employed individuals, acted as an independant contractor or incurred expenses to earn property income then you will need to calculate your income. Refer to the following sections to learn more about calculating income from:
-
-* Employment
-* Business or Property 
-
-
-## Why Distinguish Between Property and Business Income? ##
+### Economic Growth ###
 
 The government of Canada wants to encourage the creation and growth of businesses. New and growing businesses are the driving force behind and growing economy and our increasing standard of living. The government therefore provides certain benefits for taxpayers who are earning business income during the year. Some of these benefits include:
 
-* The Small Business Deduction
-* Lower Corporate Tax Rates
-* Avoiding certain attribution rules
+#### Benefits of Earning Business Income ####
 
-Since business and property income are taxed differently it is important to determine what type of income was earned during the year
+##### Lower Corporate Tax Rates #####
 
+Corporate tax rates in Canada are generally lower than the personal tax rates. This means that it is beneficial to earn income in a corporation and pay a lower tax rate until you take the money out of the corporation. This encourages people to keep money in corporations and reinvest in the business.
 
+However, if you earn property income in a corporation there is an additional tax to eliminate the benefit of earning the income in the corporation versus holding the property directly. The eliminates the ability for people to put their investments in a corporation to defer tax. 
 
- 
+##### Small Business Deduction #####
 
+The government provides a generous deduction for small businesses to reduce their tax burden. The deduction is aimed at creating new small businesses and helping existing small businesses grow. Since small business growth is a large driver of total economic growth this is a popular tax policy. Since the focus is on creating businesses the deduction is only available to offset business income. 
+
+##### Loss Carryforwards #####
+
+Corporatations that aren't doing well generate tax losses rather than taxable income. These losses can be used to offset income earned in the future and in some cases carried back to reduce the income in a previous year. For more detailed information read the losses section of this book.
+
+There are rules that stop corporations from selling losses generated by one company to another unrelated company. When there is an acquisition of control the losses of a corporation are generally eliminated. However there is an exemption where losses from a business can be used to offset future income of the same or similar businesss after an acquisition of control.[^selling-losses]   
+
+### Payroll Taxes ###
+
+One reason employment income is seperate from the other forms of income is because there are two tax programs aimed specifically at helping employees. These payroll taxes are paid on employment income earned and are remitted automatically by employers. 
+
+* Canada Pension Plan Contributions - these contributions are used to fund CPP which is a pension plan that is available to employees who contributed during their working career. This system is in place to help people who did not save sufficiently for retirement.
+* Employment Insurance Premiums - these contributiosn are used to fund EI which will provide people with a source of income if they are laid off and are looking for another job.
+
+These government programs are specifically aimed at employees and the problems they face. Therefore, it makes sense that employment income should be seperate from other income and these taxes only apply to employment income. 
+
+### Collectability of Taxes ###
+
+Another reason employment income is seperate from business and property income is to ensure it is collected. Employers are required to holdback a certain portion of your employment income and submit it to the government as a prepayment of taxes. When you file your return at the end of the year you then either pay any amount still outstanding or receive a refund if your employer has remitted more than you owe. 
+
+If employers didn't deduct income tax from people's paycheques then tax collection would become a nightmare. Many people would spend all the money they recieve and have nothing to pay the government at the end of the year. The current system avoids this problem by never giving people their money in the first place.
+
+### Fairness and Income Splitting ##
+
+There are also rules that stop individuals from moving property income to a relative with lower marginal tax rates. In certain cases where property is gifted to a relative property income will be attributable back to the original owner. This means wealthy individuals have a reduced ability to move passive income to relatives and save tax. 
 
 
 [^employment]: Defined in ss. 248(1)
 [^business]: Defined in ss. 248(1)
 [^property]: Defined in ss. 248(1)
 [^Rental]: See CRA IT Bulletin (IT-434R)[http://www.cra-arc.gc.ca/E/pub/tp/it434r/it434r-e.html] for more information
-[^Specified Investment Business]: "Specified Investment Business" - Defined in ss. 125(7)
-
-
-
-### Benefits of Earning Business Income ###
-
-#### Lower Corporate Tax Rates ####
-
-Corporate tax rates in Canada are generally lower than the personal tax rates. This means that it is beneficial to earn income in a corporation and pay a lower tax rate until you take the money out of the corporation. This encourages people to keep money in corporations and reinvest in the business. If you want to read more about this system have a look at the tax integration discussion in the policy section.
-
-However, if you earn property income in a corporation there is an additional tax to eliminate the benefit of earning the income in the corporation versus holding the property directly. The eliminates the ability for people to put their investments in a corporation and deferring tax. 
-
-#### Small Business Deduction ####
-
-The government provides a generous deduction for small businesses to reduce their tax burden. This deduction is only available to offset business income. 
-
-#### Loss Carryforwards ####
-
-#### Attribution Rules ####
-
-
-## Impact on Personal Income Taxes ##
-
-The personal tax rates are the same no matter what type of income you are earning.
-
-Individuals are taxed on each type of income using the same income tax rates. There are a few considerations to keep in mind such as:
-
-* Office and employment income is subject to EI and CPP payroll taxes in addition to income tax
-* Only 50% of capital gain are included in income which results in a large tax savings
-
-Besides the above, the type of income earned by an individual does not impact taxes payable.  
-
-## Impact on Corporate Income Taxes ##
-
-
-
-
-## Why Three Sources of Income Instead of One? ##
-
-Besides raising money, governments implement taxes in such a way as to achieve certain policy objectives. These objectives include things such as:
-
-* Improving the economy
-* Fair taxation
-* Collection and administration of tax legislation
-
-These tax policy choices is the main reason that Canada, along with most countries around the world, has such a complex tax system. It is also the same reason that taxpayers can earn income from three different sources, each of which can be taxed differently. 
-
-
-Income is classified into these different categories in order to help encourage and discourage certain activities in the economy. 
-
-
-
-
-
-
-
-
-However,
+[^Specified Investment Business]: "Specified Investment Business" - defined in ss. 125(7)
+[^incidental-property]: Prperty income for corporations defined in ss. 129(4)
+[^selling-losses]: ss. 111(5)
