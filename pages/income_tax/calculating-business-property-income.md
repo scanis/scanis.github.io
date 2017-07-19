@@ -9,13 +9,13 @@ summary: Taxpayers need to calculate the income, if any, earned from business or
 
 ## Introduction ##
 
-The calculation is the same for income from a business as it is for income from a property.[^income-calculation] It is based on the concept of "profit" for accounting purposes adjusted for specific provisions outlined in the tax legislation. The calculation is important because it forms the base of the calculation of income taxes.
+The calculation is the same for income from a business as it is for income from property.[^income-calculation] It is based on the concept of "profit" for accounting purposes adjusted for specific provisions outlined in the tax legislation. The calculation is important because it forms the base of the calculation of income taxes.
 
 ## The Starting Point: Accounting Profit ##
 
-The starting point for income is the profit calculated in accordance with well accepted business practices and accounting policies. In Canada this generally means the use of International Financial Reporting Standards ("IFRS") or Accounting Standards for Private Enterprises ("ASPE") as outlined in the CPA Canada Handbook. These standards are useful becasue they are clearly well accepted business principals but it should be noted that their use is not a requirement and is not part of the law. Taxpayers are allowed to use any calculation of profit as long as it is in accordance with the laws of the income tax act, common law, well-accepted business principals and provides an accurate picture of the taxpayers's profit for the year.[^Canderel] 
+The starting point for income is the profit calculated in accordance with well accepted business practices and accounting policies. In Canada this generally means the use of International Financial Reporting Standards ("IFRS") or Accounting Standards for Private Enterprises ("ASPE") as outlined in the CPA Canada Handbook. These standards are useful because they are official accounting standards in Canada but it should be noted that their use is not a requirement and is not part of the law. Taxpayers are allowed to use any calculation of profit as long as it is in accordance with the laws of the income tax act, common law, well-accepted business principals and provides an accurate picture of the taxpayers's profit for the year.[^Canderel] 
 
-In general the cash basis of accounting will not be appropriate because it will not provide an accurate picture of profit. However, farmers and fisherman are allowed to use the cash basis of accounting due to the nature and uncertainty of their business.[^farmers-fisherman]
+In general, the cash basis of accounting will not be appropriate because it will not provide an accurate picture of profit. However, farmers and fisherman are allowed to use the cash basis of accounting due to the nature and uncertainty of their business.[^farmers-fisherman]
 
 ## Adjustments to Accounting Profit ##
 
@@ -23,7 +23,12 @@ Profit for accounting purposes is the starting point for calculating income for 
 
 ### Specific Income Inclusions ###
 
-There are a number of things the government wants to ensure are included in income for the year. You can read the full page on these inclusions here. A few of the common items  
+There are a number of things the government wants to ensure are included in income for the year. You can read the full page on these inclusions here. A few of the common items  include:
+
+* Amounts received by the Taxpayer in the year in the course of business[^12(1)(a)]
+* Amounts receivable by the Taxpayer for property sold or services rendered in the course of business[^12(1)(b)]
+* Interested received or receivable in the year[^12(1)(c)]
+
 
 ### Deduction Limitations ###
 
@@ -35,3 +40,6 @@ There are a number of things the government wants to ensure are included in inco
 [^income-calculation]: Income outlined in ss. 9(1), losses outlined in ss. 9(2)
 [^Canderel]: The leading case in regard to the calculation of profit is *Canderel Ltd., [1998] 2 C.T.C 35 (SCC).*
 [^farmers-fisherman]: Election under ss. 28(1)
+[^12(1)(a)]: ITA ss. 12(1)(a)
+[^12(1)(b)]: ITA ss. 12(1)(b)
+[^12(1)(c)]: ITA ss. 12(1)(c)
