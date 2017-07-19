@@ -29,11 +29,12 @@ There are a number of things the government wants to ensure are included in inco
 * Amounts receivable by the Taxpayer for property sold or services rendered in the course of business[^12(1)(b)]
 * Interested received or receivable in the year[^12(1)(c)]
 
+### Deduction Limitations and Allowances
 
-### Deduction Limitations ###
+There are a number of deductions used to calculate accounting profit that cannot be deducted for tax purposes. There are also some deductions allowed for tax purposes that would not generally be taken for accounting purposes. You can read more about all these rules here. Some of the common items include:
 
+* Accounting depreciation cannot be deducted[^18(1)(b)] but a depreciation deduction is allowed uner the Capital Cost Allowance (CCA) system[^20(1)(a)]
 
-### Allowed Deductions ###
 
 
 
@@ -43,3 +44,5 @@ There are a number of things the government wants to ensure are included in inco
 [^12(1)(a)]: ITA ss. 12(1)(a)
 [^12(1)(b)]: ITA ss. 12(1)(b)
 [^12(1)(c)]: ITA ss. 12(1)(c)
+[^18(1)(b)]: ITA ss. 18(1)(b)
+[^20(1)(a)]: 
