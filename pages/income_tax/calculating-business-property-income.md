@@ -2,7 +2,7 @@
 title: "Calculating Income from Business and Property"
 keywords: income, property, business, deductions, inclusions
 tags: []
-sidebar: tax_basics_sidebar
+sidebar: income_tax_sidebar
 permalink: property_business_income_calculation.html
 summary: Taxpayers need to calculate the income, if any, earned from business or property in the year. The calculation is based on "profit" adjusted for specific rules outlined in the tax legislation.
 ---
