@@ -5,7 +5,7 @@ entries:
   levels: one
   folders:
 
-  - title: General
+  - title: Income Tax Fundamentals
     output: web
     folderitems:
     - title: Information Sources
@@ -13,6 +13,16 @@ entries:
       output: web
     - title: Types of Income
       url: /property_business_employment_income.html
+      output: web
+      
+  - title: Business & Property Income
+    output: web
+    folderitems:
+    - title: Calculating Business & Property Income
+      url: /property_business_income_calculation.html
+      output: web
+    - title: Depreciable Property
+      url: /depreciable_property_cca.html
       output: web
   
   - title: Corporate Income Tax
