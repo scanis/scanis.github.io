@@ -3,6 +3,6 @@ title: "Depreciable Property"
 keywords: income, property, business, deductions, CCA, amortization, depreciation, capital cost allowance
 tags: []
 sidebar: income_tax_sidebar
-permalink: depreciable_property.html
+permalink: depreciable_property_cca.html
 summary: 
 ---
