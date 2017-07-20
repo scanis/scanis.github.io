@@ -19,21 +19,13 @@ In general, the cash basis of accounting will not be appropriate because it will
 
 ## Adjustments to Accounting Profit ##
 
-Profit for accounting purposes is the starting point for calculating income for tax purposes. Tax legislation sets out rules for the treatment of specific items that may not align with the calculation for accounting profit. In these cases the accounting profit needs to be adjusted to be in line with tax legislation. These adjustments can be broken down into the following three categories.
+Profit for accounting purposes is the starting point for calculating income for tax purposes. Tax legislation sets out rules for the treatment of specific items that may not align with the calculation for accounting profit. In these cases the accounting profit needs to be adjusted to be in line with tax legislation. Some of the more common differences between accounting and taxable income are discussed below.
 
-### Specific Income Inclusions ###
+### Depreciable Property ###
 
-There are a number of things the government wants to ensure are included in income for the year. You can read the full page on these inclusions here. A few of the common items  include:
+It is common in accounting to capitalize an asset and amortize the cost over its useful life. This accounting amortization is not deductible for tax purposes.[^18(1)(b)] Instead, it is replaced by the capital cost allowance (CCA) system which assigns specific depreciation rates for different types of capital assets.   
 
-* Amounts received by the Taxpayer in the year in the course of business[^12(1)(a)]
-* Amounts receivable by the Taxpayer for property sold or services rendered in the course of business[^12(1)(b)]
-* Interested received or receivable in the year[^12(1)(c)]
-
-### Deduction Limitations and Allowances
-
-There are a number of deductions used to calculate accounting profit that cannot be deducted for tax purposes. There are also some deductions allowed for tax purposes that would not generally be taken for accounting purposes. You can read more about all these rules here. Some of the common items include:
-
-* Accounting depreciation cannot be deducted[^18(1)(b)] but a depreciation deduction is allowed uner the Capital Cost Allowance (CCA) system[^20(1)(a)]
+The CCA system covers all aspects of depreciable property and replaces the accounting treatment for acquisitions, amortization, dispositions and gain or loss calculations. You can read more about how the CCA system works here. 
 
 
 
@@ -41,8 +33,5 @@ There are a number of deductions used to calculate accounting profit that cannot
 [^income-calculation]: Income outlined in ss. 9(1), losses outlined in ss. 9(2)
 [^Canderel]: The leading case in regard to the calculation of profit is *Canderel Ltd., [1998] 2 C.T.C 35 (SCC).*
 [^farmers-fisherman]: Election under ss. 28(1)
-[^12(1)(a)]: ITA ss. 12(1)(a)
-[^12(1)(b)]: ITA ss. 12(1)(b)
-[^12(1)(c)]: ITA ss. 12(1)(c)
 [^18(1)(b)]: ITA ss. 18(1)(b)
-[^20(1)(a)]: 
+
