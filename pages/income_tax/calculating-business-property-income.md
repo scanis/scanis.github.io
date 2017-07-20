@@ -28,7 +28,7 @@ It is common in accounting to capitalize an asset and amortize the cost over its
 The CCA system covers all aspects of depreciable property and replaces the accounting treatment for acquisitions, amortization, dispositions and gain or loss calculations. You can read more about how the CCA system works here. 
 
 
-
+## Footnotes ##
 
 [^income-calculation]: Income outlined in ss. 9(1), losses outlined in ss. 9(2)
 [^Canderel]: The leading case in regard to the calculation of profit is *Canderel Ltd., [1998] 2 C.T.C 35 (SCC).*
