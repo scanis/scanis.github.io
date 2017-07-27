@@ -21,6 +21,10 @@ In general, the cash basis of accounting will not be appropriate because it will
 
 Profit for accounting purposes is the starting point for calculating income for tax purposes. Tax legislation sets out rules for the treatment of specific items that may not align with the calculation for accounting profit. In these cases the accounting profit needs to be adjusted to be in line with tax legislation. Some of the more common differences between accounting and taxable income are discussed below.
 
+### Capital vs. Current Expenditures ###
+
+An important distinction in accounting and tax is whether an expenditure is current or on account of capital. 
+
 ### Depreciable Property ###
 
 It is common in accounting to capitalize an asset and amortize the cost over its useful life. This accounting amortization is not deductible for tax purposes.[^18(1)(b)] Instead, it is replaced by the capital cost allowance (CCA) system which assigns specific depreciation rates for different types of capital assets.   
