@@ -35,7 +35,32 @@ The CCA system categorizes all depreciable property into a number of "classes". 
 
 The other notable difference between tax and accounting is the fact that while depreciation is required under most accounting regimes the CCA deduction is discretionary. Each year the taxpayer can choose to take a CCA deduction between zero and the maximum allowed under the CCA system. 
 
-### Common CCA Classes ###
+### Basic Calculation of CCA, Recapture and Terminal Losses ###
+
+1. When new depreciable property is acquired the initial purchase price (**capital cost**) is added to the appropriate CCA Class's undepreciated capital cost ("UCC") balance.
+2. The maximum allowed CCA deduction is calculated by multiplying the opening UCC balance by the appropriate CCA rate.
+3. The UCC balance is reduced by the CCA deduction taken in the year.
+4. When depreciable property is sold the UCC balance of the respective class is decreased by the fair market value of consideration received on sale or the capital cost of the class, whichever is lower.
+5. If the UCC balance for a particular class becomes negative in the year this "recapture" balance is included in income.
+6. If all assets in a particular CCA class have been disposed of but there is still a UCC balance this "terminal loss" can be written off to reduce taxable income. 
+
+### Special Rules ###
+
+#### Half Year Rule ####
+
+Most CCA classes incorporate a "half year rule" that only allows CCA on half of the initial purchase price in the year that an asset is acquired.[^half-year] This rule reflects the fact that most capital assets are not purchased on the first day of a taxation year. Since most capital assets are not owned for the entire taxation year in which they are purchased it doesn't make sense that Taxpayers would be allowed the full deduction. The half year rule is a simple approach to reduce the deduction available in the first year of ownership. 
+
+#### Short Taxation Years ####
+
+When the taxation year is less than 12 months the maximum CCA deduction for most CCA classes needs to be prorated by the number of days in the taxation year over 365 days.[^short-year]   
+
+#### Available for Use Rules ####
+
+If a capital asset is acquired but not yet available for use no CCA deduction is allowed in the first two years of ownership.[^available-for-use] For example, if you are in the process of building a new factory you cannot deduct CCA for the factory for two years if it is not yet avaiable for use. 
+
+Once the asset becomes available for use CCA can be claimed and the half year rule wil apply in the year it becomes available for use. In the third year after an asset is acquired the "rolling start rule" allows a CCA deduction to be claimed even if the asset is not yet available for use. The half year rule does not apply when an asset becomes available for use as a result of the rolling start rule.  
+
+## Common CCA Classes ##
 
 The CCA system is comprised of a number of "classes" for different types of depreciable property. 
 
@@ -53,32 +78,8 @@ The CCA system is comprised of a number of "classes" for different types of depr
 |50|Compture Hardware|50%|General purpose computer equipment and systems software that is not included in Class 29.|
 |53|Eligible Equipment|50%|Machinery and equipment used in Canada for the manufacture of goods acquired after 2015 and before 2026.
 
-### Undepreciated Capital Cost (UCC) ###
+## Footnotes ##
 
-1. When new depreciable property is acquired the initial purchase price (**capital cost**) is added to the appropriate CCA Class's undepreciated capital cost ("UCC") balance. 
-2. When depreciable property is sold the UCC balance of the respective class is decreased by the fair market value of consideration received on sale.  
-
-### The CCA System - Step by Step ###
-
-#### Acquisition of Depreciable Property ###
-
-
-3. The available CCA deduction for each class is based on
-
-
-### Capital Cost Allowance (CCA) ###
-
- 
-It should be noted that CCA is a discretionary deduction. That means you can decide whether or not you want to deduct CCA when calculating the taxable income for your business. 
-
-
-### Undepreciated Capital Cost (UCC) ###
-
-When a business purchases capital property it is added to the CCA Class associated with the particular property. The CCA Class determines at what rate the asset is depreciated along with other specific rules. 
-
-This initial cost of a depreciable property is referred to as the "capital cost" of the property. 
-
-
-
-### CCA Classes ###
-
+[^half-year]: Reg. 1100(2)
+[^short-year]: Reg. 1100(3)
+[^available-for-use]: ITA ss. 13(26)
